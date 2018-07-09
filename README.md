@@ -1,3 +1,1 @@
-qualquer merda que vc quiser.
-
-fode-se mastre
+Meu primeiro sistema no GIT (mentira).
